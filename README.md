@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <p align="center">
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEje6XouSbCScAvnn6UHgeDRK1xCuj8bl9EoC25LnY0MCNSq5lcIX-gExKCmlnDriCra6_gvFIz3kt7xmK0AY7BbJh3H0ePivKGPgP3iMBL9fbb_MeCevtthHGRWHfI2Nd6dwLV1UGQTnkaNlm3oku3Pf_lzZUONmNMAQlRRiJcW7JEgbbsgJRrnLUTg6o8g=s16000" />
 </p>
@@ -124,8 +123,3 @@ Entre em contato comigo:
 
 - [LinkedIn](https://www.linkedin.com/in/gabrondev/)
 - [Blog Pessoal](https://www.gabrondev.com/)
-=======
-# NihonPRO
-
-Projeto acadêmico onde foi desenvolvido um aplicativo mobile para aprendizado do idioma japonês, utilizando a ferramenta Android Studio e o banco de dados SQLite. A proposta do aplicativo é auxiliar no aprendizado do idioma por meio de flashcards.
->>>>>>> 8b5e99b7a57b9642361098eeda18e0360853fa06
