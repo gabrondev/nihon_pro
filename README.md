@@ -87,7 +87,7 @@ Crie seus próprios flashcards e aprenda hiragana, katakana e kanji a qualquer h
 
 >Por fim, clique em "Adicionar". Você pode continuar criando outros cartões em seguida, preenchendo mais decks!
 
-![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcXu-jMdshIj9WNZsOburEY5ox7M8k9UgJ2TWxNuVzmQSrbrZ2yfMvK6MLKC9kvqY0cTa866vV49Z8hmvWhon_pH1n7gCbL9cof8Uz2Tb3x0jmTVTw6J1oX39KjzpZfjZrj9BlbbeU5q8-zFqMtGQJ-8FGSC09a_1sXexBwLBfU6CJ4E6t-OhfdT5g-GCi/s320/nihon_show_git_1.gif)
+![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjcXu-jMdshIj9WNZsOburEY5ox7M8k9UgJ2TWxNuVzmQSrbrZ2yfMvK6MLKC9kvqY0cTa866vV49Z8hmvWhon_pH1n7gCbL9cof8Uz2Tb3x0jmTVTw6J1oX39KjzpZfjZrj9BlbbeU5q8-zFqMtGQJ-8FGSC09a_1sXexBwLBfU6CJ4E6t-OhfdT5g-GCi/w193-h400/nihon_show_git_1.gif)
 
 ### Revise seus decks
 
@@ -115,7 +115,7 @@ Revise os baralhos criados para memorizar novas palavras.
 
 ## Licença
 
-Este projeto está licenciado sob a Licença Pública Geral GNU (GPL) v3.0 — veja o arquivo [LICENSE](https://github.com/gabrondev/nihon_pro/blob/main/LICENSE) para detalhes.
+Este projeto está licenciado sob a Licença Pública Geral GNU (GPL) v3.0 — veja o arquivo [LICENSE](https://github.com/gabrondev/nihon_pro/blob/master/LICENSEgit) para detalhes.
 
 ## Contato
 
