@@ -26,14 +26,6 @@
 
 Aplicativo mobile para auxiliar estudantes do idioma japonês a aprenderem novas palavras e ideogramas por meio da técnica de flashcards.
 
-### Ajustes e melhorias (v1.0)
-
-- [ ] [Reorganizar a ordem das telas](https://github.com/gabrondev/nihon_pro/issues/1)
-- [ ] [Aleatorizar a ordem dos cartões na revisão](https://github.com/gabrondev/nihon_pro/issues/2)
-- [ ] [Seletor de dificuldade das revisões](https://github.com/gabrondev/nihon_pro/issues/3)
-- [ ] [Tela de finalização](https://github.com/gabrondev/nihon_pro/issues/4)
-- [ ] [Tela de splash](https://github.com/gabrondev/nihon_pro/issues/5)
-
 ### Tecnologias utilizadas
 
 ![Android Studio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibBkRsM6piEI9XtsCFKEoHbhjI3QUGqqUpc7jFlLHmiAfg-d242iAnACRxDyzo5AiCuM_yfcIbSs3UU_iLMbTsACDbvqMvWLG1_yCBeuRSpgQ6jJ2-AGOY_h69H5Z1fRcoCmhiiBYVOFVLlCV-Jf60GJgORf05YArIAY96CjiIXz1n4FNqetFsRXMBImSE/s1600/android-studio.png)
