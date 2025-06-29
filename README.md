@@ -2,18 +2,23 @@
   <img src="https://blogger.googleusercontent.com/img/a/AVvXsEje6XouSbCScAvnn6UHgeDRK1xCuj8bl9EoC25LnY0MCNSq5lcIX-gExKCmlnDriCra6_gvFIz3kt7xmK0AY7BbJh3H0ePivKGPgP3iMBL9fbb_MeCevtthHGRWHfI2Nd6dwLV1UGQTnkaNlm3oku3Pf_lzZUONmNMAQlRRiJcW7JEgbbsgJRrnLUTg6o8g=s16000" />
 </p>
 
-<div align="center">
+<div align="center" data-badges>
 
-[![GitHub tag](https://img.shields.io/github/tag/gabrondev/nihon_pro?include_prereleases=&sort=semver&color=red)](https://github.com/gabrondev/nihon_pro/releases/)
-[![License](https://img.shields.io/badge/License-GPL_3.0-red)](https://github.com/gabrondev/nihon_pro/blob/main/LICENSE)
-[![issues - nihon_pro](https://img.shields.io/github/issues/gabrondev/nihon_pro)](https://github.com/gabrondev/nihon_pro/issues)
+<img src="https://img.shields.io/github/stars/gabrondev/nihon_pro?style=for-the-badge" alt="GitHub stars" />
+<img src="https://img.shields.io/github/license/gabrondev/nihon_pro?style=for-the-badge" alt="GitHub license" />
+<img src="https://img.shields.io/github/issues/gabrondev/nihon_pro?style=for-the-badge" alt="GitHub issues" />
+
+</div>
+
+<div align="center" data-badgtes>
+
+<img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white">
+<img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+
 </div>
 
 #
-
-<p align="center">
-    <b>Página Oficial: </b> <a target="_blank" href="https://www.gabrondev.com/p/nihonpro.html">https://www.gabrondev.com/p/nihonpro.html</a>
-</p>
 
 <div align="center">
 
@@ -26,19 +31,13 @@
 
 Aplicativo mobile para auxiliar estudantes do idioma japonês a aprenderem novas palavras e ideogramas por meio da técnica de flashcards.
 
-### Tecnologias utilizadas
-
-![Android Studio](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEibBkRsM6piEI9XtsCFKEoHbhjI3QUGqqUpc7jFlLHmiAfg-d242iAnACRxDyzo5AiCuM_yfcIbSs3UU_iLMbTsACDbvqMvWLG1_yCBeuRSpgQ6jJ2-AGOY_h69H5Z1fRcoCmhiiBYVOFVLlCV-Jf60GJgORf05YArIAY96CjiIXz1n4FNqetFsRXMBImSE/s1600/android-studio.png)
-![SQLite](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjrhsRPPmCvywxkQ-2H_hhFExmDC4UJD4EorlKChOkQEjAaUN9ScKpOWabVwxvm7vM2cKg79iOrB7bCPm-2pVVCZ2jP-0a5kspvUb3MBrItTOGy0XvJoHORD4HOHi162yA6tAGreXNY0EJF5wcHriIxKHt6qRxl-tHIxfXXQ53BGknxNO-nyl0M4Cl7pj23/s1600/sqlite.png)
-![Java](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj8PtxECd1T7P4QLzQKGk-h0UoWVdG3esor-WrRj1VTErNNtMVuxIGDOegaqblx8AC5SP-Knn-sML_hOn2wr_BGIjvI-nH550D9OM2AEL2Rlu0ZLtyYSFgtmST8A2QImK80XYVTAsbTvMx43HyBnWptf5InzV4HGZKKPng35PrJY0KAiTxVVJ-x0S_Iydsd/s1600/java.png)
-
 ## Como instalar
 
 Atualmente o aplicativo não está disponível na Play Store, e é disponibilizado no formato APK. Para instalar, siga as etapas abaixo.
 
 **1. Baixe o APK**
 
->Baixe o APK na [página oficial do projeto.](https://www.gabrondev.com/p/nihonpro.html)
+>Baixe o [APK.](https://www.dropbox.com/scl/fi/gkqoaiqvlfs6f2pexvyqi/NihonPRO-Beta.apk?rlkey=jlcf0tqu183blh5vizzqmuxl3&dl=1)
 
 **2. Localize o arquivo APK e abra-o**
 
@@ -98,12 +97,6 @@ Revise os baralhos criados para memorizar novas palavras.
 >Todos os cartões do baralho serão repassados. Tente ler e lembrar o significado de cada um, e clique no pergaminho para revelar as informações. Clique em "Próximo" para avançar os cartões.
 
 ![](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiiVoVJdXt9A33fNha2scD4MjymeH1qo4ArycOhFsQycdB7RaLOZunczDn-KTs-fDC1k_Z6s61aX2_OmAGhalBAzNziUu_CChnzxZC-77fzrVASEfXAM0NJchGIx2ezJWemuISHFJKk541io2_9majQW4S7ugc_2LtkFPTTFv6xnIeDoqbww2Ub4Q3nTwJj/w193-h400/nihon_show_git_2.gif)
-
-## Documentação
-
-➡️ Você pode ler a documentação do projeto aqui:
-
- [https://github.com/gabrondev/nihon_pro/wiki](https://github.com/gabrondev/nihon_pro/wiki)
 
 ## Licença
 
